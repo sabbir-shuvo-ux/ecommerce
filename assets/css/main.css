@@ -222,6 +222,7 @@ a{
 ------------------------------ */
 .hero{
 	padding: 0;
+	overflow-x: hidden;
 }
 
 #hero .owl-nav {
